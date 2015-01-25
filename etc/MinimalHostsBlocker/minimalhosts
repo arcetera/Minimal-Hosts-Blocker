@@ -1,4 +1,4 @@
-#MHB44
+#MHB442
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -324,6 +324,9 @@
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 track.lfstmedia.com
 0.0.0.0 go.lfstmedia.com
+0.0.0.0 jsn.dt07.net
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 static.yieldmo.com
 
 #CydiaAds
 0.0.0.0 rad.live.com
@@ -427,7 +430,6 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 v3.moatads.com
 0.0.0.0 jsonp.moatads.com
-0.0.0.0 jsn.dt07.net
 
 #InternationalAdservers
 0.0.0.0 cre.adjust-net.jp
