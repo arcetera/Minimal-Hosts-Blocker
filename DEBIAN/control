@@ -1,0 +1,10 @@
+Package: com.reddestdream.minimalhostsblocker
+Name: Minimal Hosts Blocker
+Version: 4.4
+Architecture: iphoneos-arm
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Description: A Minimalistic Ad Blocker!
+Homepage: http://www.reddit.com/r/jailbreak/comments/2t2swb/minimal_hosts_blocker_40_released
+Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
+Author: ReddestDream <reddestdream@gmail.com>
+Section: Tweaks

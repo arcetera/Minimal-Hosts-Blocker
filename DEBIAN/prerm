@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "Restoring Default Hosts File"
+cp -a /etc/MinimalHostBlocker/defaulthosts /etc/hosts
+echo "Restore Complete"
+chown root:wheel /etc/hosts
+chmod 644 /etc/hosts
+echo "Killing discoveryd . . ."
+killall -9 discoveryd
+echo "Should have died and restarted by now . . ."
+echo "Cleaning up the mess . . ."
+rm -rf /etc/MinimalHostsBlocker
+echo "You should be reset back to the default hosts file now!"
+exit 0
