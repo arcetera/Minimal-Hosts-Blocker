@@ -1,4 +1,4 @@
-#MHB46
+#MHB461
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -315,6 +315,7 @@
 0.0.0.0 adzerk.net
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 am.contobox.com
+0.0.0.0 api.gravity.com
 0.0.0.0 appnexus.com
 0.0.0.0 assets.kixer.com
 0.0.0.0 b.grvcdn.com
@@ -480,6 +481,7 @@
 0.0.0.0 adcash.com
 0.0.0.0 adkengage.com
 0.0.0.0 adrotator.se
+0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.appia.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.integral-marketing.com
@@ -530,6 +532,7 @@
 0.0.0.0 onclickads.net
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pq-direct.revsci.net
+0.0.0.0 prm.europacash.com
 0.0.0.0 projectwonderful.com
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 rd.a9.com
@@ -541,6 +544,7 @@
 0.0.0.0 s7.addthis.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 serve.popads.net
+0.0.0.0 srvpub.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.fmpub.net
