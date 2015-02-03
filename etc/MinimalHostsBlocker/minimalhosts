@@ -1,10 +1,9 @@
-#MHB461
+#MHB50
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
 
 #Google
-0.0.0.0 badad.googleplex.com
 0.0.0.0 fusion.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googlesyndication.com
@@ -13,7 +12,6 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 urchin.com
@@ -142,7 +140,6 @@
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.doubleclick.net
 0.0.0.0 m1.2mdn.net
-0.0.0.0 m2.cn.2mdn.net
 0.0.0.0 motifcdn.doubleclick.net
 0.0.0.0 motifcdn2.doubleclick.net
 0.0.0.0 n4052ad.doubleclick.net
@@ -292,7 +289,6 @@
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.linkexchange.com
-0.0.0.0 ad.preferences.com
 0.0.0.0 ad.yieldmanager.com
 0.0.0.0 ad1.netshelter.net
 0.0.0.0 ad2.netshelter.net
@@ -451,22 +447,55 @@
 0.0.0.0 web-jp.ad-v.jp
 
 #IPv6 Adservers
-:: badad.googleplex.com
+:: ad.yieldmanager.com
+:: admob.biz
+:: admob.co.kr
+:: admob.co.nz
+:: admob.co.uk
+:: admob.com
+:: admob.de
+:: admob.dk
+:: admob.es
+:: admob.fi
+:: admob.fr
+:: admob.gr
+:: admob.it
+:: admob.jp
+:: admob.kr
+:: admob.mobi
+:: admob.no
+:: admob.pt
+:: admob.sg
+:: admob.tw
+:: admob.vn
+:: ads.exoclick.com
+:: adx.g.doubleclick.net
+:: cdn.bidvertiser.com
+:: cdn.pubexchange.com
+:: dfp.doubleclick.net
+:: doubleclick.com
+:: doubleclick.de
+:: doubleclick.ne.jp
 :: fusion.google.com
 :: googleads.g.doubleclick.net
 :: googlesyndication.com
-:: origin.collective-media.net
-:: pagead.l.google.com
-:: pagead2.googleadservices.com
+:: ir.doubleclick.net
+:: m.admob.com
 :: pagead2.googlesyndication.com
-:: partner.googleadservices.com
+:: s2.video.doubleclick.net
 :: static.ak.fbcdn.net
 :: static.googleadsserving.cn
+:: stats.g.doubleclick.net
 :: tpc.googlesyndication.com
 :: urchin.com
 :: video-stats.video.google.com
-:: www.googleadservices.com
+:: www.admob.com
+:: www.doubleclick.com
+:: www.doubleclick.net
 :: www.googlecommerce.com
+:: www2.doubleclick.com
+:: www3.doubleclick.com
+:: www3.doubleclick.net
 
 #OtherAnnoyingStuff
 0.0.0.0 1app.blob.core.windows.net
@@ -545,6 +574,7 @@
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 serve.popads.net
 0.0.0.0 srvpub.com
+0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.fmpub.net

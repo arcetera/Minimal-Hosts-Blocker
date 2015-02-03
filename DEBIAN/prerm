@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Restoring Default Hosts File"
-cp -a /etc/MinimalHostBlocker/defaulthosts /etc/hosts
+cp -a /etc/MinimalHostsBlocker/defaulthosts /etc/hosts
 echo "Restore Complete"
 chown root:wheel /etc/hosts
 chmod 644 /etc/hosts
