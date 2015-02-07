@@ -1,4 +1,4 @@
-#MHB51
+#MHB511
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -423,6 +423,7 @@
 0.0.0.0 www.appnexus.com
 0.0.0.0 www.bidvertiser.com
 0.0.0.0 www.buysellads.com
+0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www4.smartadserver.com
@@ -536,6 +537,7 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 buytcl.piwikpro.com
 0.0.0.0 cdn.directrev.com
+0.0.0.0 cdn.engine.phn.doublepimp.com
 0.0.0.0 cdn1.reporo.net
 0.0.0.0 cdn2.reporo.net
 0.0.0.0 clk.integral-marketing.com
@@ -557,6 +559,7 @@
 0.0.0.0 go.padsdel.com
 0.0.0.0 go.padstm.com
 0.0.0.0 gomotrak.com
+0.0.0.0 herezera.com
 0.0.0.0 i.po.st
 0.0.0.0 integral-marketing.com
 0.0.0.0 iphonefaq.us.intellitxt.com
@@ -568,9 +571,11 @@
 0.0.0.0 mads.advertising.com
 0.0.0.0 mads.at.atwola.com
 0.0.0.0 max.crwd.io
+0.0.0.0 media.trafficfactory.biz
 0.0.0.0 native.sharethrough.com
 0.0.0.0 onclickads.net
 0.0.0.0 pixel.redditmedia.com
+0.0.0.0 pornhub.kolestence.com
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 prm.europacash.com
 0.0.0.0 projectwonderful.com
