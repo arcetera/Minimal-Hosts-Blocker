@@ -1,4 +1,4 @@
-#MHB511
+#MHB512
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -353,6 +353,7 @@
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 choices.truste.com
 0.0.0.0 content.yieldmanager.edgesuite.net
+0.0.0.0 contextual.media.net
 0.0.0.0 crwdcntrl.net
 0.0.0.0 delivery.trafficjunky.net
 0.0.0.0 dtm.advertising.com
@@ -360,6 +361,7 @@
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 fastclick.net
+0.0.0.0 g2.gumgum.com
 0.0.0.0 gam.adnxs.com
 0.0.0.0 go.lfstmedia.com
 0.0.0.0 ib.adnxs.com
@@ -388,6 +390,7 @@
 0.0.0.0 rma-api.gravity.com
 0.0.0.0 rss.buysellads.com
 0.0.0.0 rtb.adgrx.com
+0.0.0.0 s-static.innovid.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scripts.lycos.com
@@ -507,6 +510,7 @@
 
 #OtherAnnoyingStuff
 0.0.0.0 1app.blob.core.windows.net
+0.0.0.0 2912a.v.fwmrm.net
 0.0.0.0 29773.v.fwmrm.net
 0.0.0.0 a.adroll.com
 0.0.0.0 a.goember.com

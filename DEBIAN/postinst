@@ -14,6 +14,9 @@ chmod 644 /etc/hosts
 echo "Killing discoveryd . . ."
 killall -9 discoveryd
 echo "Should have died and restarted by now . . ."
+echo "Deleting .git folder . . ."
+rm -rf .git
+echo ".git folder deleted!"
 echo "Enjoy Minimal Hosts Blocker!"
 echo "Please let me know if you find any ads or broken sites!"
 exit 0
