@@ -1,4 +1,4 @@
-#MHB512
+#MHB52
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -429,19 +429,25 @@
 0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.smartadserver.com
+0.0.0.0 www.zergnet.com
 0.0.0.0 www4.smartadserver.com
 
 #InternationalAdservers
+0.0.0.0 a.adtech.de
 0.0.0.0 ad-ch.jp
+0.0.0.0 ad.dc2.adtech.de
+0.0.0.0 ad1.emediate.dk
 0.0.0.0 adb.nikkei.co.jp
 0.0.0.0 adm.shinobi.jp
 0.0.0.0 adpriv.nikkei.com
 0.0.0.0 ah.yimg.jp
+0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 api.unthem.com
 0.0.0.0 c1.nend.net
 0.0.0.0 cre.adjust-net.jp
 0.0.0.0 crp-concursos.com
 0.0.0.0 d-cache.microad.jp
+0.0.0.0 fusion.dn.se
 0.0.0.0 i.ad-v.jp
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 img.adinte.jp
@@ -538,6 +544,7 @@
 0.0.0.0 at.atwola.com
 0.0.0.0 atdmt-a.akamaihd.net
 0.0.0.0 bannerfarm.ace.advertising.com
+0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 buytcl.piwikpro.com
 0.0.0.0 cdn.directrev.com
@@ -601,6 +608,7 @@
 0.0.0.0 static.fmpub.net
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 t.neodatagroup.com
+0.0.0.0 track.adform.net
 0.0.0.0 trc.taboola.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 www.adcash.com
@@ -613,5 +621,6 @@
 0.0.0.0 www.rewardzoneusa.com
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.yllix.com
+0.0.0.0 xads.zedo.com
 0.0.0.0 xp2.zedo.com
 0.0.0.0 yllix.com
