@@ -1,4 +1,4 @@
-#MHB52
+#MHB521
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -332,6 +332,7 @@
 0.0.0.0 c2.popads.net
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adnxs.com
+0.0.0.0 cdn.adshexa.com
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.ajillionmax.com
 0.0.0.0 cdn.at.atwola.com
@@ -347,6 +348,7 @@
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn1.inner-active.mobi
 0.0.0.0 cdn1.media.trafficjunky.net
+0.0.0.0 cdn1.rhtag.com
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn2.cpmstar.com
 0.0.0.0 cdn2.inner-active.mobi
@@ -358,6 +360,7 @@
 0.0.0.0 delivery.trafficjunky.net
 0.0.0.0 dtm.advertising.com
 0.0.0.0 engine.adzerk.net
+0.0.0.0 engine.widespace.com
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 fastclick.net
@@ -386,6 +389,7 @@
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pt.trafficjunky.net
+0.0.0.0 pub.clicksor.net
 0.0.0.0 rds.yahoo.com
 0.0.0.0 rma-api.gravity.com
 0.0.0.0 rss.buysellads.com
@@ -440,6 +444,11 @@
 0.0.0.0 adb.nikkei.co.jp
 0.0.0.0 adm.shinobi.jp
 0.0.0.0 adpriv.nikkei.com
+0.0.0.0 ads.nordichardware.se
+0.0.0.0 adserver.adtech.de
+0.0.0.0 adv.aftonbladet.se
+0.0.0.0 adv.svd.se
+0.0.0.0 advm.svd.se
 0.0.0.0 ah.yimg.jp
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 api.unthem.com
@@ -447,7 +456,9 @@
 0.0.0.0 cre.adjust-net.jp
 0.0.0.0 crp-concursos.com
 0.0.0.0 d-cache.microad.jp
+0.0.0.0 fusion.di.se
 0.0.0.0 fusion.dn.se
+0.0.0.0 fusion.va.se
 0.0.0.0 i.ad-v.jp
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 img.adinte.jp
@@ -487,6 +498,7 @@
 :: admob.vn
 :: ads.exoclick.com
 :: adx.g.doubleclick.net
+:: cdn.adshexa.com
 :: cdn.bidvertiser.com
 :: cdn.pubexchange.com
 :: dfp.doubleclick.net
