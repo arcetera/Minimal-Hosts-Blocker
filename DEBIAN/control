@@ -1,6 +1,6 @@
 Package: com.reddestdream.minimalhostsblocker
 Name: Minimal Hosts Blocker
-Version: 5.2.1
+Version: 5.3
 Architecture: iphoneos-arm
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Description: A minimal ad blocker!
