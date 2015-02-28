@@ -1,4 +1,4 @@
-#MHB54
+#MHB541
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -329,7 +329,6 @@
 0.0.0.0 de.cisive.net
 0.0.0.0 delivery.trafficjunky.net
 0.0.0.0 delivery.us.myswitchads.com
-0.0.0.0 designtechnica.us.intellitxt.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 directrev.blob.core.windows.net
@@ -390,6 +389,7 @@
 0.0.0.0 i.w.sandbox.inmobi.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 imads.integral-marketing.com
+0.0.0.0 images.intellitxt.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img.adinte.jp
@@ -400,12 +400,10 @@
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 integral-marketing.com
 0.0.0.0 invitemedia.com
-0.0.0.0 iphonefaq.us.intellitxt.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 japan.inmobi.com
-0.0.0.0 javaworld.us.intellitxt.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 js.revsci.net
 0.0.0.0 jsc.mgid.com
