@@ -1,4 +1,4 @@
-#MHB551
+#MHB552
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -25,6 +25,7 @@
 :: admob.vn
 :: ads.exoclick.com
 :: adx.g.doubleclick.net
+:: analytics.admob.com
 :: assets.kixer.com
 :: cdn.adshexa.com
 :: cdn.bidvertiser.com
@@ -35,7 +36,6 @@
 :: doubleclick.de
 :: doubleclick.ne.jp
 :: googleads.g.doubleclick.net
-:: googlesyndication.com
 :: ir.doubleclick.net
 :: m.admob.com
 :: pagead2.googlesyndication.com
@@ -44,7 +44,6 @@
 :: stats.g.doubleclick.net
 :: tpc.googlesyndication.com
 :: video-stats.video.google.com
-:: www.admob.com
 :: www.doubleclick.com
 :: www.doubleclick.net
 :: www2.doubleclick.com
@@ -178,8 +177,10 @@
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.addynamix.com
 0.0.0.0 ads.admarvel.com
+0.0.0.0 ads.aftonbladet.se
 0.0.0.0 ads.appia.com
 0.0.0.0 ads.bidvertiser.com
+0.0.0.0 ads.cb-cdn.com
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.integral-marketing.com
@@ -251,7 +252,6 @@
 0.0.0.0 bidvertiser.com
 0.0.0.0 blogbang01.adlooxtracking.com
 0.0.0.0 bluekai.com
-0.0.0.0 bluelithium.com
 0.0.0.0 bn-01.adtomafusion.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bullseye.backbeatmedia.com
@@ -346,6 +346,7 @@
 0.0.0.0 dynamic1.anandtech.com
 0.0.0.0 dynaserv.ads360.com
 0.0.0.0 e.admob.com
+0.0.0.0 e2.emediate.se
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 engine.4chan-ads.org
@@ -380,7 +381,6 @@
 0.0.0.0 gomotrak.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
-0.0.0.0 googlesyndication.com
 0.0.0.0 herezera.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 i.ad-v.jp
