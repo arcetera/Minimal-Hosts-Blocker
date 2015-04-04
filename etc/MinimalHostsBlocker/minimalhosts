@@ -1,4 +1,4 @@
-#MHB553
+#MHB56
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -60,6 +60,7 @@
 0.0.0.0 a.adroll.com
 0.0.0.0 a.adtech.de
 0.0.0.0 a.goember.com
+0.0.0.0 a.jumptap.com
 0.0.0.0 a.ligatus.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.tribalfusion.com
@@ -139,6 +140,7 @@
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 addthis.com
+0.0.0.0 adf.send.microad.jp
 0.0.0.0 adkengage.com
 0.0.0.0 adledge.com
 0.0.0.0 adm.shinobi.jp
@@ -184,6 +186,7 @@
 0.0.0.0 ads.cb-cdn.com
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads.exoclick.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 ads.integral-marketing.com
 0.0.0.0 ads.intergi.com
 0.0.0.0 ads.juicyads.com
@@ -191,6 +194,7 @@
 0.0.0.0 ads.mocean.mobi
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.nordichardware.se
+0.0.0.0 ads.pinger.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.qadservice.com
 0.0.0.0 ads.reddit.com
@@ -249,7 +253,6 @@
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.scorecardresearch.com
-0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 blogbang01.adlooxtracking.com
 0.0.0.0 bluekai.com
@@ -373,8 +376,6 @@
 0.0.0.0 g2.gumgum.com
 0.0.0.0 gam.adnxs.com
 0.0.0.0 gan.doubleclick.net
-0.0.0.0 ge-0-0-1-edge1.sc9.admob.com
-0.0.0.0 ge-0-0-43-crs1.sc9.admob.com
 0.0.0.0 go.lfstmedia.com
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.padsdel.com
@@ -385,6 +386,7 @@
 0.0.0.0 herezera.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 i.ad-v.jp
+0.0.0.0 i.jumptap.com
 0.0.0.0 i.po.st
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.tapit.com
@@ -405,6 +407,7 @@
 0.0.0.0 integral-marketing.com
 0.0.0.0 invitemedia.com
 0.0.0.0 ios.revmob.com
+0.0.0.0 iosads24.adcolony.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
@@ -469,7 +472,6 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 paix1.sc1.admob.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 paypalssl.doubleclick.net
@@ -497,7 +499,6 @@
 0.0.0.0 rcm-it.amazon.it
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rd.a9.com
-0.0.0.0 rds.yahoo.com
 0.0.0.0 recs.engageya.com
 0.0.0.0 resources.infolinks.com
 0.0.0.0 revmob-creatives.s3.amazonaws.com
@@ -521,7 +522,6 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scripts.lycos.com
 0.0.0.0 sdt1.corp.inmobi.com
-0.0.0.0 searchmarketing.yahoo.com
 0.0.0.0 secure-nym.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.leadback.advertising.com
@@ -537,9 +537,11 @@
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 softonicads.com
 0.0.0.0 spcdnsp.i-mobile.co.jp
+0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spnet5.i-mobile.co.jp
 0.0.0.0 spsvc3.i-mobile.co.jp
 0.0.0.0 srv.buysellads.com
+0.0.0.0 srv.clickfuse.com
 0.0.0.0 srvpub.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.adzerk.net
@@ -586,6 +588,7 @@
 0.0.0.0 web.adblade.com
 0.0.0.0 widget.engageya.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww400.smartadserver.fr
@@ -616,7 +619,6 @@
 0.0.0.0 www.yieldselect.com
 0.0.0.0 www.yllix.com
 0.0.0.0 www.zergnet.com
-0.0.0.0 www1.vip.sc9.admob.com
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www3.doubleclick.net
