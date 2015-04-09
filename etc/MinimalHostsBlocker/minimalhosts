@@ -1,4 +1,4 @@
-#MHB56
+#MHB57
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -113,6 +113,7 @@
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 ad.no.doubleclick.net
 0.0.0.0 ad.nz.doubleclick.net
+0.0.0.0 ad.omni.se
 0.0.0.0 ad.pl.doubleclick.net
 0.0.0.0 ad.pt.doubleclick.net
 0.0.0.0 ad.ro.doubleclick.net
@@ -276,6 +277,7 @@
 0.0.0.0 cdn.adshexa.com
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.ajillionmax.com
+0.0.0.0 cdn.applift.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.cpmstar.com
@@ -357,7 +359,6 @@
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine.widespace.com
 0.0.0.0 engine2.adzerk.net
-0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 expo9.exponential.com
@@ -386,7 +387,6 @@
 0.0.0.0 herezera.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 i.ad-v.jp
-0.0.0.0 i.jumptap.com
 0.0.0.0 i.po.st
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.tapit.com
@@ -401,13 +401,13 @@
 0.0.0.0 img.adinte.jp
 0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 img1.nend.net
+0.0.0.0 impact.applifier.com
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 integral-marketing.com
 0.0.0.0 invitemedia.com
 0.0.0.0 ios.revmob.com
-0.0.0.0 iosads24.adcolony.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
@@ -468,6 +468,7 @@
 0.0.0.0 overture.com
 0.0.0.0 ox-d.wuv.servedbyopenx.com
 0.0.0.0 p.admob.com
+0.0.0.0 p22.atemda.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead2.googleadservices.com
@@ -522,6 +523,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scripts.lycos.com
 0.0.0.0 sdt1.corp.inmobi.com
+0.0.0.0 secserv.adtech.de
 0.0.0.0 secure-nym.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.leadback.advertising.com
@@ -607,7 +609,6 @@
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.dpbolvw.net
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.inmobi.com
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.outbrain.com
