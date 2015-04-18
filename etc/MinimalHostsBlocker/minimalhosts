@@ -1,4 +1,4 @@
-#MHB57
+#MHB58
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -24,6 +24,7 @@
 :: admob.tw
 :: admob.vn
 :: ads.exoclick.com
+:: ads.yimg.com
 :: adx.g.doubleclick.net
 :: analytics.admob.com
 :: assets.kixer.com
@@ -206,6 +207,7 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.tunein.com
 0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.yimg.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adserver.adtechus.com
@@ -360,7 +362,6 @@
 0.0.0.0 engine.widespace.com
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 et.w.inmobi.com
-0.0.0.0 eur.a1.yimg.com
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exponential.com
 0.0.0.0 extra.thebigboss.org
@@ -503,6 +504,7 @@
 0.0.0.0 recs.engageya.com
 0.0.0.0 resources.infolinks.com
 0.0.0.0 revmob-creatives.s3.amazonaws.com
+0.0.0.0 richmedia.yimg.com
 0.0.0.0 rma-api.gravity.com
 0.0.0.0 router.infolinks.com
 0.0.0.0 royale-ssl.spongecell.com
@@ -532,7 +534,6 @@
 0.0.0.0 serve.vdopia.com
 0.0.0.0 servedby2.advertising.com
 0.0.0.0 server.cpmstar.com
-0.0.0.0 sg.yimg.com
 0.0.0.0 sin1.g.adnxs.com
 0.0.0.0 smartadserver.com
 0.0.0.0 smartadserver.fr
@@ -574,8 +575,6 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uedata.amazon.com
-0.0.0.0 uk.i1.yimg.com
-0.0.0.0 us.a1.yimg.com
 0.0.0.0 usweb.dotomi.com
 0.0.0.0 v.admob.com
 0.0.0.0 v3.moatads.com
@@ -599,6 +598,7 @@
 0.0.0.0 www.888poker.com
 0.0.0.0 www.adcash.com
 0.0.0.0 www.adnxs.com
+0.0.0.0 www.adshost2.com
 0.0.0.0 www.adsnetworkserver.com
 0.0.0.0 www.appnexus.com
 0.0.0.0 www.awltovhc.com
