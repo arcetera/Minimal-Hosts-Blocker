@@ -1,4 +1,4 @@
-#MHB58
+#MHB60
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -122,6 +122,7 @@
 0.0.0.0 ad.se.doubleclick.net
 0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 ad.si.doubleclick.net
+0.0.0.0 ad.taptica.com
 0.0.0.0 ad.terra.doubleclick.net
 0.0.0.0 ad.th.doubleclick.net
 0.0.0.0 ad.tw.doubleclick.net
@@ -178,6 +179,7 @@
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adrotator.se
+0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.addynamix.com
@@ -241,7 +243,6 @@
 0.0.0.0 apx.moatads.com
 0.0.0.0 as.chango.com
 0.0.0.0 assets.kixer.com
-0.0.0.0 assoc-amazon.com
 0.0.0.0 at.atwola.com
 0.0.0.0 atdmt-a.akamaihd.net
 0.0.0.0 au-01.adtomafusion.com
@@ -299,6 +300,7 @@
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.pubexchange.com
+0.0.0.0 cdn.pubnative.net
 0.0.0.0 cdn.static.zdtag.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn1.inner-active.mobi
@@ -329,7 +331,6 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctl1.buyt.in
 0.0.0.0 ctxt.tribalfusion.com
-0.0.0.0 cx.msn.com
 0.0.0.0 d-cache.microad.jp
 0.0.0.0 d.adroll.com
 0.0.0.0 d.plugrush.com
@@ -486,7 +487,6 @@
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 prm.cpasbien.pe
 0.0.0.0 prm.europacash.com
-0.0.0.0 prod-static-images.s3.amazonaws.com
 0.0.0.0 projectwonderful.com
 0.0.0.0 pt.trafficjunky.net
 0.0.0.0 pub.clicksor.net
@@ -523,7 +523,6 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 scorecardresearch.com
-0.0.0.0 scripts.lycos.com
 0.0.0.0 sdt1.corp.inmobi.com
 0.0.0.0 secserv.adtech.de
 0.0.0.0 secure-nym.adnxs.com
@@ -589,6 +588,7 @@
 0.0.0.0 web.adblade.com
 0.0.0.0 widget.engageya.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww251.smartadserver.com
