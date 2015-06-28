@@ -6,15 +6,15 @@ chown root:wheel /etc/MinimalHostsBlocker/minimalhosts
 chmod 644 /etc/MinimalHostsBlocker/minimalhosts
 chown root:wheel /etc/MinimalHostsBlocker/defaulthosts
 chmod 644 /etc/MinimalHostsBlocker/defaulthosts
-echo "Overwriting Hosts File"
+echo "Overwriting hosts file..."
 cp -a /etc/MinimalHostsBlocker/minimalhosts /etc/hosts
-echo "Overwrite Complete"
+echo "Overwrite complete!"
 chown root:wheel /etc/hosts
 chmod 644 /etc/hosts
-echo "Killing discoveryd . . ."
+echo "Killing discoveryd..."
 killall -9 discoveryd
-echo "Should have died and restarted by now . . ."
-echo "Deleting .git folder . . ."
+echo "Should have died and restarted by now..."
+echo "Deleting .git folder..."
 rm -rf .git
 echo ".git folder deleted!"
 echo "Enjoy Minimal Hosts Blocker!"
