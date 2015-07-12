@@ -1,4 +1,4 @@
-#MHB61
+#MHB62
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -26,8 +26,9 @@
 :: ads.exoclick.com
 :: ads.yimg.com
 :: adx.g.doubleclick.net
-:: analytics.admob.com
 :: assets.kixer.com
+:: az708531.vo.msecnd.net
+:: cdn.adbrau.com
 :: cdn.adshexa.com
 :: cdn.bidvertiser.com
 :: cdn.kixer.com
@@ -42,6 +43,7 @@
 :: pagead2.googlesyndication.com
 :: q1mediahydraplatform.com
 :: s2.video.doubleclick.net
+:: srv.bebi.com
 :: stats.g.doubleclick.net
 :: tpc.googlesyndication.com
 :: video-stats.video.google.com
@@ -56,7 +58,6 @@
 0.0.0.0 888casino.com
 0.0.0.0 888media.net
 0.0.0.0 a.ad-sys.com
-0.0.0.0 a.admob.com
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adroll.com
 0.0.0.0 a.adtech.de
@@ -177,6 +178,7 @@
 0.0.0.0 admob.tk
 0.0.0.0 admob.tw
 0.0.0.0 admob.vn
+0.0.0.0 admomi.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adrotator.se
@@ -205,7 +207,6 @@
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.servebom.com
-0.0.0.0 ads.switchboard.com
 0.0.0.0 ads.traffichunt.com
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.tunein.com
@@ -231,9 +232,7 @@
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 am.contobox.com
 0.0.0.0 amung.us
-0.0.0.0 analytics.admob.com
 0.0.0.0 ap.lijit.com
-0.0.0.0 api.admob.com
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.content.ad
 0.0.0.0 api.gravity.com
@@ -249,7 +248,7 @@
 0.0.0.0 au-01.adtomafusion.com
 0.0.0.0 austria1.adverserve.net
 0.0.0.0 avnads.com
-0.0.0.0 b.admob.com
+0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 b.grvcdn.com
 0.0.0.0 bank-01.ads.mp.mydas.mobi
 0.0.0.0 bank-02.ads.mp.mydas.mobi
@@ -353,6 +352,7 @@
 0.0.0.0 bank-99.ads.mp.mydas.mobi
 0.0.0.0 bannerfarm.ace.advertising.com
 0.0.0.0 banners.proboards.com
+0.0.0.0 banners.unibet.com
 0.0.0.0 bb.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bdv.bidvertiser.com
@@ -377,6 +377,7 @@
 0.0.0.0 c2.popads.net
 0.0.0.0 cas.criteo.com
 0.0.0.0 cdn-01.yumenetworks.com
+0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.adshexa.com
@@ -386,11 +387,13 @@
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.cpmstar.com
+0.0.0.0 cdn.cpsoft86.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.directrev.com
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.phn.doublepimp.com
 0.0.0.0 cdn.fastclick.net
+0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.kixer.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.mdotm.com
@@ -418,12 +421,13 @@
 0.0.0.0 china.inmobi.com
 0.0.0.0 choices.truste.com
 0.0.0.0 clkmon.com
+0.0.0.0 clkrev.com
+0.0.0.0 clktag.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 coinurl.com
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 content.yieldmanager.edgesuite.net
 0.0.0.0 contextual.media.net
-0.0.0.0 cpm2.admob.com
 0.0.0.0 cre.adjust-net.jp
 0.0.0.0 creative.cc-dt.com
 0.0.0.0 creative.wwwpromoter.com
@@ -459,6 +463,7 @@
 0.0.0.0 dynaserv.ads360.com
 0.0.0.0 e.admob.com
 0.0.0.0 e2.emediate.se
+0.0.0.0 ecpmrocks.com
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 engine.4chan-ads.org
@@ -517,8 +522,11 @@
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 japan.inmobi.com
+0.0.0.0 jobsetter.info
 0.0.0.0 js.adsonar.com
 0.0.0.0 js.revsci.net
+0.0.0.0 jsc.adskeeper.co.uk
+0.0.0.0 jsc.dt07.net
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jsn.dt07.net
 0.0.0.0 jsonp.moatads.com
@@ -546,7 +554,6 @@
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 mediaplex.fr
 0.0.0.0 mm.chitika.net
-0.0.0.0 mmv.admob.com
 0.0.0.0 mobile.adnxs.com
 0.0.0.0 mobile.juicyads.com
 0.0.0.0 mobile.smartadserver.com
@@ -573,7 +580,6 @@
 0.0.0.0 outbrain.com
 0.0.0.0 overture.com
 0.0.0.0 ox-d.wuv.servedbyopenx.com
-0.0.0.0 p.admob.com
 0.0.0.0 p22.atemda.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.l.google.com
@@ -582,11 +588,13 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 paypalssl.doubleclick.net
+0.0.0.0 pds.directrev.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 pl108258.puhtml.com
 0.0.0.0 pornhub.kolestence.com
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 prm.europacash.com
@@ -596,7 +604,6 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 quantserve.com
-0.0.0.0 r.admob.com
 0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 r.w.inmobi.com
 0.0.0.0 rad.live.com
@@ -612,6 +619,7 @@
 0.0.0.0 router.infolinks.com
 0.0.0.0 royale-ssl.spongecell.com
 0.0.0.0 rss.buysellads.com
+0.0.0.0 rtb.0427d7.se
 0.0.0.0 rtb.adgrx.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 s.ad131m.com
@@ -632,6 +640,7 @@
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 serve.adplxmd.com
 0.0.0.0 serve.popads.net
 0.0.0.0 serve.vdopia.com
 0.0.0.0 servedby2.advertising.com
@@ -645,6 +654,7 @@
 0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spnet5.i-mobile.co.jp
 0.0.0.0 spsvc3.i-mobile.co.jp
+0.0.0.0 srv.bebi.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srvpub.com
@@ -660,7 +670,6 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 syndication.exoclick.com
-0.0.0.0 t.admob.com
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 tag.contextweb.com
 0.0.0.0 tags.bkrtx.com
@@ -678,7 +687,6 @@
 0.0.0.0 uac.advertising.com
 0.0.0.0 uedata.amazon.com
 0.0.0.0 usweb.dotomi.com
-0.0.0.0 v.admob.com
 0.0.0.0 v3.moatads.com
 0.0.0.0 veoxa.com
 0.0.0.0 ver-adt-cm.vindicosuite.com
