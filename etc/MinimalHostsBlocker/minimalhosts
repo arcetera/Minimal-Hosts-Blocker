@@ -1,4 +1,4 @@
-#MHB62
+#MHB63
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -29,6 +29,7 @@
 :: assets.kixer.com
 :: az708531.vo.msecnd.net
 :: cdn.adbrau.com
+:: cdn.adf.ly
 :: cdn.adshexa.com
 :: cdn.bidvertiser.com
 :: cdn.kixer.com
@@ -63,6 +64,7 @@
 0.0.0.0 a.adtech.de
 0.0.0.0 a.goember.com
 0.0.0.0 a.jumptap.com
+0.0.0.0 a.kat.cr
 0.0.0.0 a.ligatus.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.tribalfusion.com
@@ -146,6 +148,7 @@
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 addthis.com
+0.0.0.0 ade.clmbtech.com
 0.0.0.0 adf.send.microad.jp
 0.0.0.0 adkengage.com
 0.0.0.0 adledge.com
@@ -192,6 +195,8 @@
 0.0.0.0 ads.bidvertiser.com
 0.0.0.0 ads.cb-cdn.com
 0.0.0.0 ads.celtra.com
+0.0.0.0 ads.cleveland.com
+0.0.0.0 ads.cricbuzz.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.intergi.com
@@ -213,6 +218,7 @@
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.yimg.com
 0.0.0.0 adsafeprotected.com
+0.0.0.0 adserver.adreactor.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver.exoticads.com
@@ -250,6 +256,7 @@
 0.0.0.0 avnads.com
 0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 b.grvcdn.com
+0.0.0.0 ba2b687.se
 0.0.0.0 bank-01.ads.mp.mydas.mobi
 0.0.0.0 bank-02.ads.mp.mydas.mobi
 0.0.0.0 bank-03.ads.mp.mydas.mobi
@@ -378,8 +385,10 @@
 0.0.0.0 cas.criteo.com
 0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn.adbrau.com
+0.0.0.0 cdn.adf.ly
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adnxs.com
+0.0.0.0 cdn.adrotator.se
 0.0.0.0 cdn.adshexa.com
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.ajillionmax.com
@@ -420,6 +429,7 @@
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 choices.truste.com
+0.0.0.0 clickadu.com
 0.0.0.0 clkmon.com
 0.0.0.0 clkrev.com
 0.0.0.0 clktag.com
@@ -433,6 +443,7 @@
 0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creatives.doubleclick.net
+0.0.0.0 creatives.revmob.com
 0.0.0.0 crp-concursos.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctl1.buyt.in
@@ -463,6 +474,7 @@
 0.0.0.0 dynaserv.ads360.com
 0.0.0.0 e.admob.com
 0.0.0.0 e2.emediate.se
+0.0.0.0 ebdr3.com
 0.0.0.0 ecpmrocks.com
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 edge.quantserve.com
@@ -507,6 +519,7 @@
 0.0.0.0 imads.integral-marketing.com
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.outbrain.com
+0.0.0.0 images.revmob.com
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img.adinte.jp
 0.0.0.0 img.ak.impact-ad.jp
@@ -517,6 +530,7 @@
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 integral-marketing.com
 0.0.0.0 invitemedia.com
+0.0.0.0 ios.bcfads.com
 0.0.0.0 ios.revmob.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir.doubleclick.net
@@ -594,7 +608,6 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
-0.0.0.0 pl108258.puhtml.com
 0.0.0.0 pornhub.kolestence.com
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 prm.europacash.com
@@ -657,6 +670,7 @@
 0.0.0.0 srv.bebi.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.clickfuse.com
+0.0.0.0 srv.juiceadv.com
 0.0.0.0 srvpub.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.adzerk.net
@@ -727,6 +741,7 @@
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.rewardzoneusa.com
 0.0.0.0 www.smartadserver.com
+0.0.0.0 www.terraclicks.com
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.yieldselect.com
 0.0.0.0 www.yllix.com
