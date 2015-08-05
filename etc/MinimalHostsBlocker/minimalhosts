@@ -1,8 +1,9 @@
-#MHB63
+#MHB64
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
 
+:: ad.kixer.com
 :: admob.biz
 :: admob.co.kr
 :: admob.co.nz
@@ -32,6 +33,7 @@
 :: cdn.adf.ly
 :: cdn.adshexa.com
 :: cdn.bidvertiser.com
+:: cdn.directtrk.com
 :: cdn.kixer.com
 :: cdn.pubexchange.com
 :: dfp.doubleclick.net
@@ -58,6 +60,7 @@
 0.0.0.0 29773.v.fwmrm.net
 0.0.0.0 888casino.com
 0.0.0.0 888media.net
+0.0.0.0 9cf9.v.fwmrm.net
 0.0.0.0 a.ad-sys.com
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adroll.com
@@ -110,6 +113,7 @@
 0.0.0.0 ad.in.doubleclick.net
 0.0.0.0 ad.it.doubleclick.net
 0.0.0.0 ad.jp.doubleclick.net
+0.0.0.0 ad.kixer.com
 0.0.0.0 ad.kr.doubleclick.net
 0.0.0.0 ad.leadbolt.net
 0.0.0.0 ad.leadboltads.net
@@ -217,11 +221,14 @@
 0.0.0.0 ads.tunein.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.yimg.com
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver.exoticads.com
+0.0.0.0 adserver.juicyads.com
+0.0.0.0 adservices.picadmedia.com
 0.0.0.0 adshost2.com
 0.0.0.0 adsx.greystripe.com
 0.0.0.0 adsyndication.msn.com
@@ -229,6 +236,7 @@
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 adv.aftonbladet.se
 0.0.0.0 adv.svd.se
+0.0.0.0 advil.waze.com
 0.0.0.0 advm.svd.se
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adzerk.net
@@ -244,6 +252,7 @@
 0.0.0.0 api.gravity.com
 0.0.0.0 api.unthem.com
 0.0.0.0 api.viglink.com
+0.0.0.0 api9.net
 0.0.0.0 appfly.mobi
 0.0.0.0 appnexus.com
 0.0.0.0 apx.moatads.com
@@ -399,6 +408,7 @@
 0.0.0.0 cdn.cpsoft86.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.directrev.com
+0.0.0.0 cdn.directtrk.com
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.phn.doublepimp.com
 0.0.0.0 cdn.fastclick.net
@@ -470,13 +480,12 @@
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 dsp.adledge.com
 0.0.0.0 dtm.advertising.com
-0.0.0.0 dynamic1.anandtech.com
 0.0.0.0 dynaserv.ads360.com
 0.0.0.0 e.admob.com
 0.0.0.0 e2.emediate.se
 0.0.0.0 ebdr3.com
+0.0.0.0 eclkmpbn.com
 0.0.0.0 ecpmrocks.com
-0.0.0.0 ecs1.engageya.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 engine.4chan-ads.org
 0.0.0.0 engine.adzerk.net
@@ -486,7 +495,6 @@
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exponential.com
 0.0.0.0 extra.thebigboss.org
-0.0.0.0 fastclick.net
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.doubleclick.net
@@ -499,6 +507,7 @@
 0.0.0.0 g2.gumgum.com
 0.0.0.0 gam.adnxs.com
 0.0.0.0 gan.doubleclick.net
+0.0.0.0 go.goroost.com
 0.0.0.0 go.lfstmedia.com
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.padsdel.com
@@ -574,6 +583,7 @@
 0.0.0.0 modmyi.us.intellitxt.com
 0.0.0.0 motifcdn.doubleclick.net
 0.0.0.0 motifcdn2.doubleclick.net
+0.0.0.0 mresell.macworld.co.uk
 0.0.0.0 my.mobfox.com
 0.0.0.0 mydas.mobi
 0.0.0.0 n4052ad.doubleclick.net
@@ -623,8 +633,6 @@
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm-it.amazon.it
 0.0.0.0 rcm-na.amazon-adsystem.com
-0.0.0.0 rd.a9.com
-0.0.0.0 recs.engageya.com
 0.0.0.0 resources.infolinks.com
 0.0.0.0 revmob-creatives.s3.amazonaws.com
 0.0.0.0 richmedia.yimg.com
@@ -632,7 +640,6 @@
 0.0.0.0 router.infolinks.com
 0.0.0.0 royale-ssl.spongecell.com
 0.0.0.0 rss.buysellads.com
-0.0.0.0 rtb.0427d7.se
 0.0.0.0 rtb.adgrx.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 s.ad131m.com
@@ -674,7 +681,6 @@
 0.0.0.0 srvpub.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.adzerk.net
-0.0.0.0 static.chartbeat.com
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.trafficjunky.net
@@ -711,7 +717,6 @@
 0.0.0.0 wd.sharethis.com
 0.0.0.0 web-jp.ad-v.jp
 0.0.0.0 web.adblade.com
-0.0.0.0 widget.engageya.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
@@ -739,7 +744,6 @@
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.projectwonderful.com
 0.0.0.0 www.quantserve.com
-0.0.0.0 www.rewardzoneusa.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.terraclicks.com
 0.0.0.0 www.tqlkg.com
