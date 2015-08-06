@@ -1,4 +1,4 @@
-#MHB641
+#MHB642
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -235,7 +235,6 @@
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 adv.aftonbladet.se
 0.0.0.0 adv.svd.se
-0.0.0.0 advil.waze.com
 0.0.0.0 advm.svd.se
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adzerk.net
@@ -632,6 +631,7 @@
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm-it.amazon.it
 0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 req.startappservice.com
 0.0.0.0 resources.infolinks.com
 0.0.0.0 revmob-creatives.s3.amazonaws.com
 0.0.0.0 richmedia.yimg.com
@@ -680,6 +680,7 @@
 0.0.0.0 srvpub.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.adzerk.net
+0.0.0.0 static.emsservice.de
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.trafficjunky.net
