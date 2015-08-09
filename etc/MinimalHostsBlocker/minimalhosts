@@ -1,4 +1,4 @@
-#MHB642
+#MHB65
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -47,6 +47,7 @@
 :: q1mediahydraplatform.com
 :: s2.video.doubleclick.net
 :: srv.bebi.com
+:: static.exoclick.com
 :: stats.g.doubleclick.net
 :: tpc.googlesyndication.com
 :: video-stats.video.google.com
@@ -255,6 +256,7 @@
 0.0.0.0 appnexus.com
 0.0.0.0 apx.moatads.com
 0.0.0.0 as.chango.com
+0.0.0.0 assets.applovin.com
 0.0.0.0 assets.kixer.com
 0.0.0.0 at.atwola.com
 0.0.0.0 atdmt-a.akamaihd.net
@@ -395,7 +397,6 @@
 0.0.0.0 cdn.adf.ly
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adnxs.com
-0.0.0.0 cdn.adrotator.se
 0.0.0.0 cdn.adshexa.com
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.ajillionmax.com
@@ -404,7 +405,6 @@
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.cpsoft86.com
-0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.directrev.com
 0.0.0.0 cdn.directtrk.com
 0.0.0.0 cdn.elasticad.net
@@ -483,13 +483,16 @@
 0.0.0.0 e2.emediate.se
 0.0.0.0 ebdr3.com
 0.0.0.0 eclkmpbn.com
+0.0.0.0 eclkmpsa.com
 0.0.0.0 ecpmrocks.com
 0.0.0.0 edge.quantserve.com
+0.0.0.0 embed.insticator.com
 0.0.0.0 engine.4chan-ads.org
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine.widespace.com
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 et.w.inmobi.com
+0.0.0.0 eu2.madsone.com
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exponential.com
 0.0.0.0 extra.thebigboss.org
@@ -542,15 +545,16 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
+0.0.0.0 jadserve.postrelease.com
 0.0.0.0 japan.inmobi.com
 0.0.0.0 jobsetter.info
 0.0.0.0 js.adsonar.com
+0.0.0.0 js.moatads.com
 0.0.0.0 js.revsci.net
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jsn.dt07.net
-0.0.0.0 jsonp.moatads.com
 0.0.0.0 ko.snstatic.fi
 0.0.0.0 kona.kontera.com
 0.0.0.0 ktu.sv2.biz
@@ -603,12 +607,12 @@
 0.0.0.0 overture.com
 0.0.0.0 ox-d.wuv.servedbyopenx.com
 0.0.0.0 p22.atemda.com
-0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 partners.swoop.com
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pds.directrev.com
 0.0.0.0 pixel.adsafeprotected.com
@@ -651,7 +655,6 @@
 0.0.0.0 s2.adform.net
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 s3.buysellads.com
-0.0.0.0 s7.addthis.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sdt1.corp.inmobi.com
 0.0.0.0 secserv.adtech.de
@@ -707,9 +710,7 @@
 0.0.0.0 uac.advertising.com
 0.0.0.0 uedata.amazon.com
 0.0.0.0 usweb.dotomi.com
-0.0.0.0 v3.moatads.com
 0.0.0.0 veoxa.com
-0.0.0.0 ver-adt-cm.vindicosuite.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoslots.888.com
 0.0.0.0 w.inmobi.com
@@ -747,7 +748,6 @@
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.terraclicks.com
 0.0.0.0 www.tqlkg.com
-0.0.0.0 www.yieldselect.com
 0.0.0.0 www.yllix.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 www2.doubleclick.com
@@ -758,5 +758,4 @@
 0.0.0.0 xads.zedo.com
 0.0.0.0 xp2.zedo.com
 0.0.0.0 yieldmanager.com
-0.0.0.0 yieldselect.com
 0.0.0.0 yllix.com
