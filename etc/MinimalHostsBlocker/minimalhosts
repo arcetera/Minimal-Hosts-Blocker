@@ -1,4 +1,4 @@
-#MHB65
+#MHB66
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
@@ -86,6 +86,7 @@
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad.adtoma.com
 0.0.0.0 ad.adverticum.net
+0.0.0.0 ad.adxcore.com
 0.0.0.0 ad.ae.doubleclick.net
 0.0.0.0 ad.ams.mcdstorage.com
 0.0.0.0 ad.ar.doubleclick.net
@@ -216,6 +217,7 @@
 0.0.0.0 ads.qadservice.com
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rubiconproject.com
+0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.traffichunt.com
 0.0.0.0 ads.trafficjunky.net
@@ -241,9 +243,7 @@
 0.0.0.0 adzerk.net
 0.0.0.0 affiliate.2mdn.net
 0.0.0.0 ah.yimg.jp
-0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
-0.0.0.0 am.contobox.com
 0.0.0.0 amung.us
 0.0.0.0 ap.lijit.com
 0.0.0.0 api.adsnative.com
@@ -254,7 +254,6 @@
 0.0.0.0 api9.net
 0.0.0.0 appfly.mobi
 0.0.0.0 appnexus.com
-0.0.0.0 apx.moatads.com
 0.0.0.0 as.chango.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.kixer.com
@@ -379,6 +378,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bn-01.adtomafusion.com
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 buysellads.com
 0.0.0.0 buytcl.piwikpro.com
@@ -403,6 +403,7 @@
 0.0.0.0 cdn.applift.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.bidvertiser.com
+0.0.0.0 cdn.castplatform.com
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.cpsoft86.com
 0.0.0.0 cdn.directrev.com
@@ -451,7 +452,6 @@
 0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creatives.doubleclick.net
-0.0.0.0 creatives.revmob.com
 0.0.0.0 crp-concursos.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctl1.buyt.in
@@ -707,9 +707,9 @@
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 trends.revcontent.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uedata.amazon.com
-0.0.0.0 usweb.dotomi.com
 0.0.0.0 veoxa.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoslots.888.com
