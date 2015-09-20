@@ -1,11 +1,11 @@
 Package: com.reddestdream.minimalhostsblocker
 Name: Minimal Hosts Blocker
-Version: 6.6
+Version: 7.0
 Architecture: iphoneos-arm
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Description: A minimal ad blocker!
 Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.minimalhostsblocker/index.html
-Maintainer: arcetera <arc@arcetera.party>
+Maintainer: arcetera <arcticsn0wdev@gmail.com>
 Author: ReddestDream <reddestdream@gmail.com>
 Section: Tweaks
 
