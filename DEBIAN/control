@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Description: A minimal ad blocker!
 Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.minimalhostsblocker/index.html
-Maintainer: arcetera <arcticsn0wdev@gmail.com>
+Maintainer: arcetera <arc@plusreed.com>
 Author: ReddestDream <reddestdream@gmail.com>
 Section: Tweaks
 
