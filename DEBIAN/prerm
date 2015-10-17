@@ -5,8 +5,9 @@ cp -a /etc/MinimalHostsBlocker/defaulthosts /etc/hosts
 echo "Restore Complete"
 chown root:wheel /etc/hosts
 chmod 644 /etc/hosts
-echo "Killing discoveryd..."
+echo "Killing discoveryd/mDNSResponder..."
 killall -9 discoveryd
+killall -9 mDNSResponder
 echo "Should have died and restarted by now..."
 echo "Cleaning up the mess..."
 rm -rf /etc/MinimalHostsBlocker
